@@ -90,7 +90,7 @@ namespace AIVISION {
         set_mode = 0;
     }
 
-    //% blockId=K210_Menu block="Visual module retum to main menu"
+    //% blockId=K210_Menu block="Visual module return to main menu"
     
     //% group="Microbit K210"
     //% weight=100
@@ -268,7 +268,7 @@ namespace AIVISION {
         return false
     }
 
-    //% blockId=clearSerialBuffer block="clearSerialBuffer"
+    //% blockId=clearSerialBuffer block="clear serial buffer"
     //% group="Microbit K210"
     //% weight=85
     export function clearSerialBuffer(): void {
